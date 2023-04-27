@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# react-parallax
+
+<p>Resimlerin sabit kaldığı metinlerin hareketli olduğu website formudur.</p>
+<p> react parallax kütüphanesi kullanılmıştır.</p>
+<img src="img/parallax.gif" alt="">
