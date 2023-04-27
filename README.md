@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <p>Resimlerin sabit kaldığı metinlerin hareketli olduğu website formudur.</p>
 <p> react parallax kütüphanesi kullanılmıştır.</p>
-<img src =("https://user-images.githubusercontent.com/121401426/234730476-ba38a5fa-af27-4091-a9b2-d510bce7a6fd.gif")
+<img src ="https://user-images.githubusercontent.com/121401426/234730476-ba38a5fa-af27-4091-a9b2-d510bce7a6fd.gif"
 
